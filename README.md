@@ -83,17 +83,17 @@ This ensures your PostgreSQL database schema is up-to-date.
 uvicorn main:app --reload
 ```
 The API will be available at:  
-👉 **http://127.0.0.1:8000/docs** (Swagger UI)
+ **http://127.0.0.1:8000/docs** (Swagger UI)
 
 ---
 
 
 ## **Key Learnings & Takeaways**  
 This project demonstrates:  
-✔ **Database Migrations** with Alembic  
-✔ **PostgreSQL Connection** with a remote Neon database  
-✔ **FastAPI for REST API Development**  
-✔ **Environment Variables for Secure Configurations**  
+ **Database Migrations** with Alembic  
+ **PostgreSQL Connection** with a remote Neon database  
+ **FastAPI for REST API Development**  
+ **Environment Variables for Secure Configurations**  
 
 ---
 
