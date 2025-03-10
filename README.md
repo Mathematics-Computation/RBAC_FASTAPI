@@ -16,7 +16,7 @@ This project implements a **Role-Based Access Control (RBAC) API** using **FastA
 
 ### 1 **Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Mathematics-Computation/RBAC_FASTAPI.git
 cd your-repo
 ```
 
