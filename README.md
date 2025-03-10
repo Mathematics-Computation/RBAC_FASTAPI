@@ -1,6 +1,4 @@
-Here’s a **README.md** file that highlights your project’s use of **Alembic** and **PostgreSQL on Neon**, while showcasing your knowledge effectively.  
 
----
 
 # **RBAC API with FastAPI, Alembic & PostgreSQL**  
 
@@ -14,7 +12,7 @@ This project implements a **Role-Based Access Control (RBAC) API** using **FastA
 
 ---
 
-## 🛠 **Setup & Installation**  
+## **Setup & Installation**  
 
 ### 1 **Clone the Repository**  
 ```bash
