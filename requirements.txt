@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+sqlalchemy
+asyncpg  # For PostgreSQL (Neon)
+passlib[bcrypt]  # For password hashing
+pyjwt  # For JWT authentication
+psycopg2-binary
+python-jose[cryptography]
+alembic
